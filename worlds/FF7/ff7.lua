@@ -1,6 +1,12 @@
 -- Auto-generated lookup table for FF7 Archipelago item injection
 
 item_lookup = {
+    ["Fire Materia"] = { id = 0x00, quantity = 1 },
+    ["Ice Materia"] = { id = 0x01, quantity = 1 },
+    ["Buster Sword"] = { id = 0x10, quantity = 1 },
+    ["Mythril Saber"] = { id = 0x11, quantity = 1 },
+    ["Iron Bangle"] = { id = 0x20, quantity = 1 },
+    ["Carbon Bangle"] = { id = 0x21, quantity = 1 },
     ["Potion"] = { id = 0x01, quantity = 10 },
     ["Phoenix Down"] = { id = 0x05, quantity = 5 },
     ["Turbo Ether"] = { id = 0x0D, quantity = 3 },
