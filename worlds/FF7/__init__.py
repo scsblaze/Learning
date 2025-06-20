@@ -1,5 +1,3 @@
-from . import Items, Locations, Rules, Options
+from . import Items, Locations, Rules, Options, client
 
 game_name = "Final Fantasy VII"
-
-from BaseClasses import Item, ItemClassification
